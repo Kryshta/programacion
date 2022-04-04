@@ -3,7 +3,9 @@
 #define PARTE_ENTERA(X) (int)(X)
 #define PARTE_DECIMAL(X) (X)-PARTE_ENTERA(X)
 #define REDONDEO(X) PARTE_DECIMAL>0.5?PARTE_ENTERA(X+1):PARTE_ENTERA(X)
-//#define
+#define ABS(X) (X)<0?(X)*-1:(X)
+#define MAYOR(X, Y) (X)>(Y)?(X):(Y)
+
 //abs mayor menor es_par es_impar es_letra es_nro es_blanco es_mayus es_minus a_mayus a_minus es_vocal
 
 
