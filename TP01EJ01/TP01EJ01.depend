@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648676015 source:c:\users\tom\desktop\programacion\funciones_utiles\factorial.c
+	<stdio.h>
+	<stdlib.h>
+	"../TP01EJ01/header.h"
+
+1648676003 c:\users\tom\desktop\programacion\tp01ej01\header.h
+
+1648677239 source:c:\users\tom\desktop\programacion\tp01ej01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
