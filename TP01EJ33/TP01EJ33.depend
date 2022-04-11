@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649650013 source:c:\users\tom\desktop\programacion\tp01ej33\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1649650013 c:\users\tom\desktop\programacion\tp01ej33\header.h
+
+1649650136 source:c:\users\tom\desktop\programacion\tp01ej33\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

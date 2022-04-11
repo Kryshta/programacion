@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1649192210 source:c:\users\laboratorios\desktop\clase 3 presencial\clasetres\clasetres.c
+	<stdio.h>
+	<stdlib.h>
+	"claseTres.h"
+
+1649192171 source:c:\users\laboratorios\desktop\clase 3 presencial\clasetres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"claseTres.h"
+
+1649192128 c:\users\laboratorios\desktop\clase 3 presencial\clasetres\clasetres.h
+
+1649188254 c:\users\laboratorios\desktop\clase 3 presencial\clasetres\clasetres.c
+	<stdio.h>
+	<stdlib.h>
+	"claseTres.h"
+
+1649393057 source:c:\users\tom\desktop\programacion\clasetres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"claseTres.h"
+
+1649393057 c:\users\tom\desktop\programacion\clasetres\clasetres.h
+
+1649393091 source:c:\users\tom\desktop\programacion\clasetres\clasetres.c
+	<stdio.h>
+	<stdlib.h>
+	"claseTres.h"
+

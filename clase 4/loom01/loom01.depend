@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649558168 source:c:\users\tom\desktop\programacion\clase 4\loom01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1649556327 c:\users\tom\desktop\programacion\clase 4\loom01\header.h
+
+1649558379 source:c:\users\tom\desktop\programacion\clase 4\loom01\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
