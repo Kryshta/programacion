@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650169257 source:c:\users\tom\desktop\programacion\loom04\main.c
+	<stdio.h>
+	<stdlib.h>
+
