@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650834952 source:c:\users\tom\desktop\programacion\clase0422\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1650832872 c:\users\tom\desktop\programacion\clase0422\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1650834808 source:c:\users\tom\desktop\programacion\clase0422\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
