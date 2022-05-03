@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651263946 source:c:\users\tom\desktop\programacion\20220429\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1651263946 c:\users\tom\desktop\programacion\20220429\header.h
+
