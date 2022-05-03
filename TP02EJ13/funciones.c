@@ -108,7 +108,7 @@ void fUnion(t_empleado auxEmpleado, t_estudiante auxEstudiante, int comparacion,
         strcpy(auxPersona.nombre,auxEstudiante.nombre);
         auxPersona.dni=auxEstudiante.dni;
         fwrite(&auxPersona, sizeof(t_persona),1,pUnion);
-        fseek(*employees,-sizeof(t_empleado),SEEK_CUR);
+        fseek(*employees,(long)-sizeof(t_empleado),SEEK_CUR);
     }
 
     if (comparacion<0){
@@ -116,7 +116,7 @@ void fUnion(t_empleado auxEmpleado, t_estudiante auxEstudiante, int comparacion,
         strcpy(auxPersona.nombre,auxEmpleado.nombre);
         auxPersona.dni=auxEmpleado.dni;
         fwrite(&auxPersona, sizeof(t_persona),1,pUnion);
-        fseek(*students, -1*sizeof(t_estudiante),SEEK_CUR);
+        fseek(*students, (long) -sizeof(t_estudiante),SEEK_CUR);
     }
 
     if (comparacion==0){

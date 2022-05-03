@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1651029607 source:c:\users\tom\desktop\programacion\tp02ej13\main.c
+1651031853 source:c:\users\tom\desktop\programacion\tp02ej13\main.c
 	<stdio.h>
 	<stdlib.h>
 	"header.h"
