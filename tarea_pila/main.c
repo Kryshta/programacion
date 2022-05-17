@@ -14,10 +14,12 @@ int main()
         scanf("%d", &opcion);
 
         switch (opcion){
-            case 1: scanf("%c", &elemento);
+            case 1: fflush (stdin);
+                    scanf("%c", &elemento);
                     push(&pila, elemento);
                     break;
-            case 2: scanf("%c", &elemento);
+            case 2: fflush (stdin);
+                    scanf("%c", &elemento);
                     pop(&pila, elemento);
                     break;
             case 3: mostrarPila(&pila);
