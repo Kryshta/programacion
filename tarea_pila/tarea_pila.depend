@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652642284 source:c:\users\tom\desktop\programacion\icpc\tarea_pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1652642447 c:\users\tom\desktop\programacion\icpc\tarea_pila\header.h
+
+1652644032 source:c:\users\tom\desktop\programacion\icpc\tarea_pila\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1652644888 source:c:\users\tom\desktop\programacion\tarea_pila\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1652645406 c:\users\tom\desktop\programacion\tarea_pila\header.h
+
+1652645088 source:c:\users\tom\desktop\programacion\tarea_pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
