@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653014878 source:c:\users\tom\desktop\programacion\tarea_cortedecontrol\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1653015177 source:c:\users\tom\desktop\programacion\tarea_cortedecontrol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1653015177 c:\users\tom\desktop\programacion\tarea_cortedecontrol\header.h
+

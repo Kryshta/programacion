@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653121003 source:c:\users\tom\desktop\programacion\icpc\cses 1090\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
